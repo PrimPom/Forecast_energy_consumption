@@ -1,0 +1,6 @@
+venv/*
+poetry.lock
+.idea
+**/__pycache__/**
+notebooks/jour_2024-01-09_au_2024-02-26.csv
+notebooks/.ipynb_checkpoints/*
